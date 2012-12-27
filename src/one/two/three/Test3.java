@@ -7,6 +7,7 @@ public static void main(String[] args){
 
 System.out.pringln("Hello from Test3");
 System.out.pringln("Hello from Test31");
+System.out.pringln("Hello from Test32");
 
 }
 
