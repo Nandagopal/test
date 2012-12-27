@@ -1,6 +1,5 @@
 package one.two.three;
 
-<<<<<<< HEAD
 public class Test2 {
 
 	/**
@@ -13,16 +12,5 @@ public class Test2 {
 		System.out.println("next two");
 
 	}
-=======
-public class Test2{
-
-
-public static void main(String[] args){
-
-System.out.pringln("Hello from Test2");
-System.out.pringln("Hello from Test2");
-
-}
->>>>>>> 307a3ba90b0acb6e7c248d15719bc13e4b789884
 
 }
